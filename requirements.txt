@@ -1,0 +1,5 @@
+pip install nltk
+pip install spacy
+python -m spacy download en_core_web_sm
+pip install SpeechRecognition
+pip install gtts
